@@ -36,9 +36,8 @@ Gradient Descent Based Optimization with known Derivatives
             std::vector<double> grad(std::vector<double>& pt){
             // return grad
             }
-        };```
-
-
+        };
+        
 ## License
 
 The project is distributed under the BSD-3 clause license.
